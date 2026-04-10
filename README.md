@@ -93,7 +93,7 @@ All protocols included in this repository are publicly available documents retri
 
 ## 🔁 License and reproducibility
 
-The workflow is fully reproducible. All code, package versions, data extraction rules, and transformations are documented in this repository. The R code is released under the [MIT License](LICENSE).
+The workflow is fully reproducible. All code, package versions, data extraction rules, and transformations are documented in this repository. 
 
 ---
 
