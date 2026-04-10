@@ -17,9 +17,9 @@ llm-pharmacoepi-study-design/
 │   ├── Software.R           # R script for all analyses and figures
 │   └── PROMPTS.md           # Active Prompting and LTM prompt templates
 └── results/
-    ├── relevance_assessment.xlsx    # GPT-4o-assessed relevance scores
+    ├── relevance_assessment.xlsx    # Relevance scores
     ├── excel_csv_output/            # CSV exports of relevance assessment sheets
-    └── logic_assessment.xlsx        # Human-rated logic of justification scores
+    └── logic_assessment.xlsx        # Logic of justification scores
 ```
 
 Each subfolder contains a `LINKS.md` file with full citations and links to the original sources of all protocols. The `data/` folder contains its own `README.md` with detailed information on protocol selection, characteristics, and concept extraction mapping.
