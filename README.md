@@ -53,12 +53,6 @@ Model outputs were evaluated across four dimensions:
 
 ---
 
-## 📊 Results summary
-
-GPT-4o and DeepSeek-R1 paired with LTM prompting consistently achieved the highest relevance and logic of justification scores. GPT-4o–LTM reached a median relevance score of 4 in 8 out of 9 questions for HMA-EMA protocols. Biomedical LLMs showed lower overall relevance and frequently produced insufficient justification. All models demonstrated limited proficiency in ontology-code mapping, though LTM provided the most consistent improvements in reasoning stability. Performance was sensitive to protocol source and structure, with HMA-EMA protocols yielding the most stable outputs.
-
----
-
 ## 🛠️ Technical stack
 
 All statistical analyses and visualizations were performed in R (version 4.5.1).
