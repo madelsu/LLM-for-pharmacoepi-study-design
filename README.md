@@ -13,8 +13,13 @@ llm-pharmacoepi-study-design/
 │   ├── hma-ema/             # 15 non-DARWIN HMA-EMA Catalogue protocols
 │   ├── sentinel/            # 15 Sentinel System protocols
 │   └── pre-assessment/      # 3 protocols used to select the Top-5 LLM–prompt combinations
-└── software/
-    └── Software.R           # R script for all analyses and figures
+├── software/
+│   ├── Software.R           # R script for all analyses and figures
+│   └── PROMPTS.md           # Active Prompting and LTM prompt templates
+└── results/
+    ├── relevance_assessment.xlsx    # GPT-4o-assessed relevance scores
+    ├── excel_csv_output/            # CSV exports of relevance assessment sheets
+    └── logic_assessment.xlsx        # Human-rated logic of justification scores
 ```
 
 Each subfolder contains a `LINKS.md` file with full citations and links to the original sources of all protocols. The `data/` folder contains its own `README.md` with detailed information on protocol selection, characteristics, and concept extraction mapping.
