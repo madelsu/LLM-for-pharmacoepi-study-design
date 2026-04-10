@@ -6,20 +6,17 @@ This folder contains the 46 pharmacoepidemiological study protocols used to eval
 
 ---
 
-## Overview
-
-A total of 46 publicly available study protocols were retrieved from two pharmacoepidemiological sources: the HMA-EMA Catalogue of Real-World Data (RWD) Studies and the Sentinel System. All protocols were published between 2018 and 2024, written in English, and publicly available at the time of analysis.
-
----
-
 ## Folder structure
-
+ 
 ```
 data/
-├── darwin/          # 16 DARWIN EU® protocols from the HMA-EMA Catalogue
-├── hma-ema/         # 15 non-DARWIN expert-developed protocols from the HMA-EMA Catalogue
-└── sentinel/        # 15 protocols from the Sentinel System (Drugs section)
+├── darwin/              # 16 DARWIN EU® protocols from the HMA-EMA Catalogue
+├── hma-ema/             # 15 non-DARWIN expert-developed protocols from the HMA-EMA Catalogue
+├── sentinel/            # 15 protocols from the Sentinel System (Drugs section)
+└── pre-assessment/      # 3 protocols used to select the Top-5 LLM–prompt combinations
 ```
+ 
+The `pre-assessment/` folder contains the three randomly selected protocols — one from DARWIN EU®, one from the Sentinel System, and one from the HMA-EMA Catalogue (non-DARWIN) — that were used to evaluate 42 LLM–prompt combinations prior to the main analysis. Based on this pre-assessment, the Top-5 combinations were selected for the full study.
 
 ---
 
