@@ -1,6 +1,7 @@
 # Revision 2 — Resubmission Package
 
 **Manuscript:** *Employing General-Purpose and Biomedical Large Language Models with Advanced Prompt Engineering for Pharmacoepidemiologic Study Design*
+
 **Journal:** *Pharmaceutical Research*
 
 **Revision round:** 2
