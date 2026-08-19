@@ -2,6 +2,7 @@
 
 **Manuscript:** *Employing General-Purpose and Biomedical Large Language Models with Advanced Prompt Engineering for Pharmacoepidemiologic Study Design*
 **Journal:** *Pharmaceutical Research*
+
 **Revision round:** 2
 
 This package contains the point-by-point response, the tracked-changes manuscript, the supplementary tables, the corrected source data, the derived analysis datasets, and a single end-to-end reproducible analysis script. Every reported value has been recomputed from the released data and cross-checked against the manuscript, the response letter, and the reviewer's stated figures.
