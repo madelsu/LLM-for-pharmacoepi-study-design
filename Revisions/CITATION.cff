@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the associated article."
+title: "Employing General-Purpose and Biomedical Large Language Models with Advanced Prompt Engineering for Pharmacoepidemiologic Study Design"
+authors:
+  - family-names: Sessa
+    given-names: Maurizio
+    # affiliation: Department of Drug Design and Pharmacology, University of Copenhagen
+  # - family-names: <ADD>
+  #   given-names: <co-authors>
+year: 2026
+version: "2.0-revision2"
+license: MIT
+repository-code: "https://github.com/<ORG>/<REPO>"
+preferred-citation:
+  type: article
+  title: "Employing General-Purpose and Biomedical Large Language Models with Advanced Prompt Engineering for Pharmacoepidemiologic Study Design"
+  journal: "Pharmaceutical Research"
+  year: 2026
+  authors:
+    - family-names: Sessa
+      given-names: Maurizio
