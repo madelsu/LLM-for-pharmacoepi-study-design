@@ -1,0 +1,11 @@
+error_type,total,Q1-BioLlama-LTM,Q2-BioLlama-LTM,Q3-BioLlama-LTM,Q4-BioLlama-LTM,Q5-BioLlama-LTM,Q6-BioLlama-LTM,Q7-BioLlama-LTM,Q8-BioLlama-LTM,Q9-BioLlama-LTM,Q10-BioLlama-LTM,Q1-Qwen2med-LTM,Q2-Qwen2med-LTM,Q3-Qwen2med-LTM,Q4-Qwen2med-LTM,Q5-Qwen2med-LTM,Q6-Qwen2med-LTM,Q7-Qwen2med-LTM,Q8-Qwen2med-LTM,Q9-Qwen2med-LTM,Q10-Qwen2med-LTM
+Irrelevant auto-generated questions,189,2,18,13,20,28,26,20,19,32,11,0,0,0,0,0,0,0,0,0,0
+Lack of Justification,105,4,8,13,8,4,5,6,6,6,0,11,7,5,4,4,4,4,3,3,0
+Long answer,36,0,1,1,0,1,1,1,1,3,8,4,1,2,2,1,2,2,4,1,0
+Non-Adherence to the algorithm,11,0,0,0,0,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0
+Incomplete answer,11,5,1,0,1,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0
+Model crash,8,0,0,0,0,1,0,0,0,1,4,1,0,0,0,0,0,0,1,0,0
+Generate inconsistency language,4,0,0,0,0,0,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0
+Prompt echoing,4,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Overuse of conditional language,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Instruction drift,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
